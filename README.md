@@ -1,3 +1,5 @@
+I used Laravel with React in the project.
+
 ## Installation 
 Make sure you have environment setup properly.
 
